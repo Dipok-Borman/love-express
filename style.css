@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url("499399.jpg");
+    align-items: center;
+    height: 100%;
+}
+.logo{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    height: 200px;
+}
+.logo img{
+    width: 100%;
+    height: 100%;
+}
+.top-love{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    height: 200px;
+    text-align: center;
+}
+.top-love h2{
+    color: red;
+    font-weight: bold;
+}
+.img-box{
+    border: 1px solid black;
+    background: whitesmoke;
+    padding: 5px;
+    box-shadow: inset 5px 5px 20px gray;
+}
+.section{
+    margin-bottom: 20px;
+}
+.gif{
+    width: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
